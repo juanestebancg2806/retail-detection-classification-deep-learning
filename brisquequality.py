@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 import math as m
 import sys
+#based on https://learnopencv.com/image-quality-assessment-brisque/
+
 # for gamma function, called 
 from scipy.special import gamma as tgamma
 import os
